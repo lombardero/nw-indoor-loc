@@ -1,0 +1,2344 @@
+SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        ADELAIDE e8:fc:af:f9:3e:9c -72  6       Y  -- WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -47  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -63  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -62  11      Y  US NONE
+                         eduroam 70:df:2f:44:d6:e4 -62  11      Y  US WPA2(802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:fc -90  149     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:fc -90  149     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -65  56      Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -91  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -60  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -60  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -60  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -60  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -61  108     Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:ac -90  100     Y  US NONE
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -91  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -71  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -71  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -71  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -71  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -59  140     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -58  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -59  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -58  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -59  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -62  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -59  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -59  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -59  11      Y  US WPA2(802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -74  11      Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -72  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -71  6       Y  -- NONE
+                       stern-psk 4c:77:6d:60:1e:45 -48  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -48  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -48  6       Y  US NONE
+                            Aura 1a:59:c0:59:48:91 -74  4       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -59  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -59  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:e1 -59  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -59  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:ca -80  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -80  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -79  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -79  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -79  40      Y  US WPA2(802.1x/AES/AES)
+                           Apt7N 44:07:0b:28:2d:87 -91  149     Y  us WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -54  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -54  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -54  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -54  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -54  120     Y  US WPA2(802.1x/AES/AES)
+(base) ➜  ~
+
+SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        ADELAIDE e8:fc:af:f9:3e:9c -72  6       Y  -- WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:fc -90  149     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:fc -90  149     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -65  56      Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                            Aura 1a:59:c0:59:48:91 -74  4       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -71  6       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -72  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -74  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -59  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -59  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -59  11      Y  US NONE
+                         eduroam 70:df:2f:44:45:eb -61  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -61  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -62  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -61  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -61  108     Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -85  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:ac -87  100     Y  US NONE
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -68  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -68  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -68  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -68  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -61  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -60  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -61  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -60  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -60  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -61  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -61  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -61  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -61  11      Y  US WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -70  6       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -51  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -51  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -51  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -50  6       Y  US WPA2(802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -75  5       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -75  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:f8 -75  3       Y  -- NONE
+                       stern-psk 70:df:2f:44:45:e5 -59  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -59  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -59  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -58  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -83  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -82  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -82  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -82  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -83  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -48  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -48  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -48  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -48  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -48  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -79  10      N  US NONE
+(base) ➜  ~
+
+  SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                            Aura 1a:59:c0:59:48:91 -74  4       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -71  6       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -72  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -74  11      Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:f8 -75  3       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -75  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -75  5       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -50  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -51  6       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -51  6       Y  US NONE
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -70  6       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -61  11      Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                        att-wifi 24:c9:a1:16:d1:ac -87  100     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -85  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -67  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -67  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -68  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -67  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -68  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -66  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -65  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -66  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -64  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -62  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -63  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -63  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -63  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -63  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -55  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -54  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -51  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -55  11      Y  US NONE
+                         eduroam 70:df:2f:44:d6:e4 -51  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -54  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -51  11      Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -41  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -80  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -55  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -55  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -55  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -55  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -80  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -80  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -47  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -47  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -47  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -47  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -47  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -82  10      N  US NONE
+
+SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:f8 -75  3       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -75  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -75  5       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -50  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -51  6       Y  US NONE
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -70  6       Y  US WPA2(PSK/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -80  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -41  6       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -55  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -55  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -55  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -55  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -55  108     Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -89  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:ac -89  100     Y  US NONE
+                      ubnt-55t-w dc:9f:db:5c:55:36 -83  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -58  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -58  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -57  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -58  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -58  56      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -61  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -61  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -61  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -61  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -61  140     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -59  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -59  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -58  11      Y  US NONE
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -53  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -53  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -53  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -53  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -58  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -53  6       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -68  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -69  6       Y  -- NONE
+                       stern-psk 70:df:2f:44:45:e5 -57  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -57  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -57  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -57  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -82  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -82  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -82  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -82  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                  NETGEAR08-5G-2 9c:3d:cf:35:a6:1a -89  153     Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:7c -87  153     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:7c -87  153     Y  US NONE
+                       stern-psk 4c:77:6d:60:1e:4a -52  120     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -52  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -52  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -52  120     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -52  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -79  10      N  US NONE
+
+SID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:f8 -75  3       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -75  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -75  5       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -50  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -51  6       Y  US NONE
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -70  6       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -80  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -41  6       Y  US WPA2(802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:7c -87  153     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:7c -87  153     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -69  6       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -68  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -53  6       Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -83  64      Y  -- NONE
+                        att-wifi 24:c9:a1:16:d1:ac -89  100     Y  US NONE
+                         eduroam 70:df:2f:44:45:eb -56  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -56  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -56  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -56  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -56  108     Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -91  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -87  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:d6:ea -56  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -56  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -56  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -56  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -56  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -59  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -59  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -59  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -59  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -59  140     Y  US WPA2(802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -79  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -57  11      Y  US NONE
+                       stern-psk 70:df:2f:52:83:65 -53  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -56  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -53  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -53  11      Y  US NONE
+                       stern-psk 70:df:2f:44:d6:e5 -57  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -53  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -57  11      Y  US WPA2(802.1x/AES/AES)
+                          jnwifi 58:ef:68:72:44:43 -80  4       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -80  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:a8 -77  1       Y  -- NONE
+                       stern-psk 70:df:2f:44:45:e5 -52  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -52  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -52  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -52  1       Y  US WPA2(802.1x/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9b -90  44      Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -77  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -78  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -78  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -78  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -78  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -57  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -57  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -57  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -57  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -57  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -79  10      N  US NONE
+                        HPC496A9 02:2f:ef:10:53:2a -83  10      N  US NONE
+
+SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:7c -87  153     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:7c -87  153     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -69  6       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -68  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -53  6       Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -83  64      Y  -- NONE
+                        att-wifi 24:c9:a1:16:d1:a8 -77  1       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -80  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                          jnwifi 58:ef:68:72:44:43 -80  4       Y  US WPA2(PSK/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -79  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -48  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -48  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -48  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -48  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -48  108     Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -90  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:ac -89  100     Y  US NONE
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -91  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:d6:ea -55  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -55  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -55  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -55  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -55  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -61  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -61  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -61  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -61  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -61  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -57  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -57  11      Y  US NONE
+                       stern-psk 70:df:2f:44:d6:e5 -52  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -57  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -52  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -52  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -52  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -57  11      Y  US WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -74  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -67  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -61  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -56  6       Y  US WPA2(802.1x/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -88  6       Y  -- WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -80  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -73  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -73  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -41  1       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -74  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -74  1       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -41  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -41  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -42  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -74  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -74  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -74  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -74  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -74  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -61  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -61  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -61  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -61  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -61  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -79  10      N  US NONE
+                        HPC496A9 02:2f:ef:10:53:2a -83  10      N  US NONE
+
+SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:7c -87  153     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:7c -87  153     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -69  6       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -68  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -53  6       Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -83  64      Y  -- NONE
+                        att-wifi 24:c9:a1:16:d1:a8 -77  1       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -80  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                          jnwifi 58:ef:68:72:44:43 -80  4       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -74  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -74  1       Y  US NONE
+                         eduroam 70:df:2f:44:43:c4 -73  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -73  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -56  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -61  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -67  6       Y  US WPA2(802.1x/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -74  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -55  56      Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:ac -89  100     Y  US NONE
+                       stern-psk 70:df:2f:44:45:ea -49  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -48  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -49  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -48  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -49  108     Y  US WPA2(802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -91  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -90  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -57  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -57  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -57  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -57  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -62  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -62  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -62  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -62  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -62  140     Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -55  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -55  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -49  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -49  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -49  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -49  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -55  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -53  11      Y  US WPA2(802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -75  11      Y  US WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -74  6       Y  -- WPA2(PSK/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -62  6       Y  -- WPA2(PSK/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -78  5       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -80  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:f8 -82  3       Y  -- NONE
+                       stern-psk 70:df:2f:44:45:e5 -39  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -40  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -40  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -40  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -79  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -78  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -79  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -79  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -78  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -62  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -62  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -62  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -62  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -62  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -79  10      N  US NONE
+                        HPC496A9 02:2f:ef:10:53:2a -83  10      N  US NONE
+
+   SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:a8 -77  1       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -80  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                          jnwifi 58:ef:68:72:44:43 -80  4       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -74  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -74  1       Y  US NONE
+                         eduroam 70:df:2f:44:43:c4 -73  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -73  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -56  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -61  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -67  6       Y  US WPA2(802.1x/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -74  6       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:ac -89  100     Y  US NONE
+                        att-wifi 24:c9:a1:16:d1:f8 -82  3       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -80  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -78  5       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -62  6       Y  -- WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -74  6       Y  -- WPA2(PSK/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -75  11      Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -91  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -47  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -48  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -47  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -48  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -47  108     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:54:6d:4b -88  100     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:d6:ea -56  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -56  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -56  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -56  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -56  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -67  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -68  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -67  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -67  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -67  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 78:bc:1a:d2:86:0d -90  136     Y  US NONE
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -52  11      Y  US NONE
+                 nyuguest-legacy 70:df:2f:52:83:63 -59  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -52  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -52  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -59  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -59  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -52  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -59  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -43  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -43  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -43  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -43  1       Y  US WPA2(802.1x/AES/AES)
+                      patient-5G 8c:09:f4:cb:e7:c5 -91  48,-1   Y  US WPA(PSK/TKIP,AES/TKIP) WPA2(PSK/TKIP,AES/TKIP)
+                       stern-psk 70:df:2f:44:43:ca -82  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -82  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -82  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -82  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -82  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -63  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -63  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -63  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -63  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -62  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC496A9 02:2f:ef:10:53:2a -83  10      N  US NONE
+
+
+
+
+
+
+
+
+
+
+
+ SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                         eduroam 70:df:2f:44:45:eb -66  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -66  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -66  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -66  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -66  108     Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -91  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -67  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -67  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -66  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -67  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -60  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -60  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -60  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -60  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -60  140     Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -57  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -56  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -56  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -56  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -57  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -57  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -57  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -57  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -52  6       Y  US WPA2(802.1x/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -77  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -51  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -52  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -51  6       Y  US NONE
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -79  5       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -58  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -58  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -82  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -83  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -82  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -82  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -82  40      Y  US WPA2(802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:fc -89  149     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:fc -89  149     Y  US NONE
+                       stern-psk 4c:77:6d:60:1e:4a -57  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -57  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -57  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -56  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -56  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -86  10      N  US NONE
+
+ SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -51  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -52  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -51  6       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -77  6       Y  -- WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -52  6       Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -91  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -62  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -62  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -62  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -61  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -61  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -92  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -62  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -62  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -62  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -62  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -56  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -56  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -56  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -56  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -56  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -60  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -53  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -53  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -59  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -53  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -59  11      Y  US NONE
+                         eduroam 70:df:2f:44:d6:e4 -60  11      Y  US WPA2(802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -83  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -51  11      Y  US NONE
+             attwifi - Passpoint 54:3d:37:5f:83:18 -77  8       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 54:3d:37:1f:83:18 -81  8       Y  -- NONE
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -83  5       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -57  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -57  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -57  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -57  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -82  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -82  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -82  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -83  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -83  40      Y  US WPA2(802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:fc -89  149     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:fc -87  149     Y  US NONE
+                       stern-psk 4c:77:6d:60:1e:4a -48  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -48  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -48  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -48  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -48  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -86  10      N  US NONE
+                        HP778381 02:25:65:03:cd:62 -83  10      N  US NONE
+
+       SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                       stern-psk 4c:77:6d:60:1e:45 -51  6       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -77  6       Y  -- WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -52  6       Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:ac -91  100     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:fc -87  149     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:fc -89  149     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -83  5       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 54:3d:37:1f:83:18 -81  8       Y  -- NONE
+             attwifi - Passpoint 54:3d:37:5f:83:18 -77  8       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -83  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -56  140     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -60  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -60  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -60  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -60  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -60  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -87  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -58  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -58  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -58  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -58  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -58  56      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -58  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -58  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -58  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -58  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -56  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -56  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -56  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -57  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -56  11      Y  US NONE
+                       stern-psk 70:df:2f:52:83:65 -57  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -57  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -57  11      Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -44  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -45  6       Y  US NONE
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -81  6       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:f8 -82  3       Y  -- NONE
+                        GEORGINA 40:70:09:dd:7e:60 -80  1       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -80  1       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                       stern-psk 70:df:2f:44:45:e5 -57  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -57  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -57  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -57  1       Y  US WPA2(802.1x/AES/AES)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -89  40,-1   Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -49  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -49  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -49  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -49  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -49  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -86  10      N  US NONE
+                        HP778381 02:25:65:03:cd:62 -83  10      N  US NONE
+
+             SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:fc -87  149     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:fc -89  149     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -83  5       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 54:3d:37:1f:83:18 -81  8       Y  -- NONE
+             attwifi - Passpoint 54:3d:37:5f:83:18 -77  8       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -83  11      Y  US WPA2(PSK/AES/AES)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -89  40,-1   Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:c5 -80  1       Y  US WPA2(PSK/AES/AES)
+                        GEORGINA 40:70:09:dd:7e:60 -80  1       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:f8 -82  3       Y  -- NONE
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -81  6       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -45  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -44  6       Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -87  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:45:ea -58  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -58  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -58  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -58  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -58  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -90  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:d6:ea -61  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -61  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -61  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -61  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -61  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -60  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -60  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -60  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -60  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -60  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -60  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -57  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -57  11      Y  US NONE
+                         eduroam 70:df:2f:44:d6:e4 -60  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -57  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -60  11      Y  US NONE
+                       stern-psk 70:df:2f:44:d6:e5 -60  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -58  11      Y  US WPA2(PSK/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -78  6       Y  -- WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -80  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -55  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -55  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -55  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -55  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -80  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -80  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -54  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -54  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -54  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -54  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -54  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -83  10      N  US NONE
+
+   SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:fc -87  149     Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:fc -89  149     Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -83  5       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 54:3d:37:1f:83:18 -81  8       Y  -- NONE
+             attwifi - Passpoint 54:3d:37:5f:83:18 -77  8       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+         Pricila's Wi-Fi Network 6c:70:9f:e5:b3:dc -83  11      Y  US WPA2(PSK/AES/AES)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -89  40,-1   Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:c5 -80  1       Y  US WPA2(PSK/AES/AES)
+                        GEORGINA 40:70:09:dd:7e:60 -80  1       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:f8 -82  3       Y  -- NONE
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -81  6       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -45  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -44  6       Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -87  64      Y  -- NONE
+                         eduroam 70:df:2f:44:43:c4 -80  1       Y  US WPA2(802.1x/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -78  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -57  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -57  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -57  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -58  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -57  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -90  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:d6:ea -56  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -56  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -56  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -56  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -56  56      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -61  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -61  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -61  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -61  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -61  140     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -54  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -54  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -54  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -54  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -54  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -54  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -54  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -54  11      Y  US NONE
+                            Home 2c:5d:93:23:ce:e8 -86  8       Y  -- WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -75  6       Y  -- WPA2(PSK/AES/AES)
+                 NETGEAR08_2GEXT b0:b9:8a:48:66:e5 -81  6       Y  US WPA2(PSK/AES/AES)
+                       NETGEAR08 9c:3d:cf:35:a6:19 -80  6       Y  US WPA2(PSK/AES/AES)
+   DIRECT-32-HP ENVY 7640 series fc:3f:db:e0:9a:33 -85  1       Y  -- WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -48  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -48  1       Y  US NONE
+                       stern-psk 70:df:2f:44:45:e5 -48  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:e1 -48  1       Y  US WPA2(802.1x/AES/AES)
+                    TG1672GE2-5G 00:ac:e0:8d:7c:e5 -87  40,-1   Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -58  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -58  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -58  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -58  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -58  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -83  10      N  US NONE
+
+       SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -89  40,-1   Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:f8 -82  3       Y  -- NONE
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -81  6       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -45  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -44  6       Y  US WPA2(802.1x/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -78  6       Y  -- WPA2(PSK/AES/AES)
+                    TG1672GE2-5G 00:ac:e0:8d:7c:e5 -87  40,-1   Y  US WPA2(PSK/AES/AES)
+   DIRECT-32-HP ENVY 7640 series fc:3f:db:e0:9a:33 -85  1       Y  -- WPA2(PSK/AES/AES)
+                       NETGEAR08 9c:3d:cf:35:a6:19 -80  6       Y  US WPA2(PSK/AES/AES)
+                 NETGEAR08_2GEXT b0:b9:8a:48:66:e5 -81  6       Y  US WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -75  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -56  56      Y  US WPA2(PSK/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -90  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:45:ea -52  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -52  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -52  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -52  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -52  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -86  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -55  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -55  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -55  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -55  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -63  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -63  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -63  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -63  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -63  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -46  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -58  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -59  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -46  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -46  11      Y  US NONE
+                 nyuguest-legacy 70:df:2f:52:83:63 -59  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -43  11      Y  US WPA2(802.1x/AES/AES)
+                       GordonNYC 30:23:03:33:54:93 -80  8       Y  US WPA2(PSK/AES/AES)
+                            Home 2c:5d:93:23:ce:e8 -84  8       Y  -- WPA2(PSK/AES/AES)
+                       Kaj Allan f8:cf:c5:fa:2f:6b -85  6       Y  -- WPA2(PSK/AES/AES)
+        Clifford's Wi-Fi Network 00:26:bb:77:c1:19 -82  6       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -82  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        GEORGINA 40:70:09:dd:7e:60 -77  1       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -76  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:c5 -77  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -76  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -49  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -49  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -49  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -49  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -76  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -77  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -76  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -76  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -76  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -63  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -63  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -63  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -63  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -63  120     Y  US WPA2(802.1x/AES/AES
+
+                 SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    TG1672GE2-5G 00:ac:e0:8d:7c:e5 -87  40,-1   Y  US WPA2(PSK/AES/AES)
+   DIRECT-32-HP ENVY 7640 series fc:3f:db:e0:9a:33 -85  1       Y  -- WPA2(PSK/AES/AES)
+                       NETGEAR08 9c:3d:cf:35:a6:19 -80  6       Y  US WPA2(PSK/AES/AES)
+                 NETGEAR08_2GEXT b0:b9:8a:48:66:e5 -81  6       Y  US WPA2(PSK/AES/AES)
+                        GEORGINA 40:70:09:dd:7e:60 -77  1       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -82  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+        Clifford's Wi-Fi Network 00:26:bb:77:c1:19 -82  6       Y  US WPA2(PSK/AES/AES)
+                       Kaj Allan f8:cf:c5:fa:2f:6b -85  6       Y  -- WPA2(PSK/AES/AES)
+                            Home 2c:5d:93:23:ce:e8 -84  8       Y  -- WPA2(PSK/AES/AES)
+                       GordonNYC 30:23:03:33:54:93 -80  8       Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -86  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:45:ea -47  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -47  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -47  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -47  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -47  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:54:6d:4a -90  100     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:54:6d:4b -90  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -90  100     Y  US NONE
+                             nyu 70:df:2f:54:6d:4f -90  100     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:54:6d:4e -90  100     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -91  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:d6:ea -52  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -52  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -52  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -52  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -52  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -63  140     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -63  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -63  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -63  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -63  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -47  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -49  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -60  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -60  11      Y  US NONE
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -49  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -49  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -60  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -60  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -57  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -59  6       Y  US WPA2(802.1x/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -74  6       Y  -- WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -59  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -59  6       Y  US WPA2(802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -76  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -77  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -75  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -75  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -75  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -76  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -47  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -47  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -47  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -47  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -75  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -75  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -75  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -75  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -74  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -61  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -61  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -61  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -61  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -61  120     Y  US WPA2(802.1x/AES/AES)
+(base
+       SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        GEORGINA 40:70:09:dd:7e:60 -77  1       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -82  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+        Clifford's Wi-Fi Network 00:26:bb:77:c1:19 -82  6       Y  US WPA2(PSK/AES/AES)
+                       Kaj Allan f8:cf:c5:fa:2f:6b -85  6       Y  -- WPA2(PSK/AES/AES)
+                            Home 2c:5d:93:23:ce:e8 -84  8       Y  -- WPA2(PSK/AES/AES)
+                       GordonNYC 30:23:03:33:54:93 -80  8       Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -86  64      Y  -- NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -47  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -47  1       Y  US NONE
+                         eduroam 70:df:2f:44:45:e4 -47  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -47  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -76  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -75  1       Y  US NONE
+                         eduroam 70:df:2f:44:43:c4 -75  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -75  1       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -76  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -59  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -59  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -59  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -57  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -52  56      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:54:6d:4e -90  100     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:54:6d:4f -90  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -90  100     Y  US NONE
+                         eduroam 70:df:2f:54:6d:4b -90  100     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:54:6d:4a -90  100     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -53  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -53  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -53  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -53  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -53  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -90  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -57  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -57  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -57  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -57  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -62  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -61  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -62  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -62  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -61  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 78:bc:1a:d2:86:0b -90  136     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 78:bc:1a:d2:86:0d -90  136     Y  US NONE
+                         thomas2 40:49:0f:c5:79:c9 -82  11      Y  -- WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -61  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -61  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -51  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -51  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -62  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -51  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -62  11      Y  US NONE
+                         eduroam 70:df:2f:44:d6:e4 -51  11      Y  US WPA2(802.1x/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -78  6       Y  -- WPA2(PSK/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -68  6       Y  -- WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -83  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                           P579S f8:e4:fb:f0:19:b1 -87  1       Y  -- WPA2(PSK/AES,TKIP/TKIP)
+                       stern-psk 70:df:2f:44:43:ca -80  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -80  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -80  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -80  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -64  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -64  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -65  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -64  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -65  120     Y  US WPA2(802.1x/AES/AES)
+
+
+
+
+
+
+           SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                         eduroam 70:df:2f:44:45:eb -64  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -64  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -64  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -64  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -88  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -67  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -67  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -67  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -67  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -57  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -58  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -58  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -58  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -58  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -60  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -54  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -57  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -52  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -54  11      Y  US NONE
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -60  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -60  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -54  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -49  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -49  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -49  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -49  6       Y  US WPA2(802.1x/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -78  6       Y  US WPA2(PSK/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -83  4       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -58  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -58  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -58  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -58  1       Y  US WPA2(802.1x/AES/AES)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -80  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -80  40      Y  US WPA2(802.1x/AES/AES)
+             MySpectrumWiFi08-5G 78:29:ed:f2:76:07 -90  161     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -55  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -55  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -54  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -54  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -54  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -79  10      N  US NONE
+
+        SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -83  4       Y  US WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -78  6       Y  US WPA2(PSK/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -88  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:45:ea -63  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -62  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -63  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -63  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -62  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -67  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -67  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -67  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -67  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -55  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -55  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -55  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -55  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -55  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -49  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -49  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -61  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -61  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -61  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -61  11      Y  US NONE
+                       stern-psk 70:df:2f:52:83:65 -49  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -49  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -48  6       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -47  6       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -47  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -47  6       Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -76  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:a8 -80  1       Y  -- NONE
+                       stern-psk 70:df:2f:44:43:c5 -78  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -78  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -78  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -78  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -57  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -57  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -57  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -57  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -51  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -51  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -51  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -51  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -51  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -79  10      N  US NONE
+
+         SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -83  4       Y  US WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -78  6       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:a8 -80  1       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -76  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:45:ea -61  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -61  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -61  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -61  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -62  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -88  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -61  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -61  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -61  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -61  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -52  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -52  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -52  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -52  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -52  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -57  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -57  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -57  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -51  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -48  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -50  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -50  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -57  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -49  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -49  6       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -49  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -49  6       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -76  1       Y  US WPA2(802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -84  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                        att-wifi 24:c9:a1:12:3d:d8 -85  1       Y  -- NONE
+                       stern-psk 70:df:2f:44:43:c5 -76  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -76  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -54  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -54  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -54  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -54  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -77  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:ca -84  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -84  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -84  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -84  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -83  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -55  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -55  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -55  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -55  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -55  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -79  10      N  US NONE
+                       
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -83  4       Y  US WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -78  6       Y  US WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:a8 -80  1       Y  -- NONE
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                        att-wifi 24:c9:a1:12:3d:d8 -85  1       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -84  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -49  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -49  6       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -49  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -49  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -52  140     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -58  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -58  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -58  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -58  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -59  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -88  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -56  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -56  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -57  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -57  56      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -54  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -55  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -55  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -55  140     Y  US WPA2(802.1x/AES/AES)
+                      FiOS-GY2GD 48:5d:36:1c:3b:6a -84  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -54  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -54  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -54  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -53  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -53  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -53  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -53  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -53  11      Y  US NONE
+                        ADELAIDE e8:fc:af:f9:3e:9c -82  6       Y  -- WPA2(PSK/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -81  6       Y  -- WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -79  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -80  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -78  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                       stern-psk 70:df:2f:44:45:e5 -55  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -55  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -55  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -55  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -79  1       Y  US WPA2(802.1x/AES/AES)
+                      WIFI97FAEE 30:f7:72:97:fa:f1 -86  1       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -78  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -78  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -78  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -77  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -77  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -52  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -52  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -52  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -52  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -52  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -79  10      N  US NONE
+
+      SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:16:d1:a8 -80  1       Y  -- NONE
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                        att-wifi 24:c9:a1:12:3d:d8 -85  1       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -84  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      WIFI97FAEE 30:f7:72:97:fa:f1 -86  1       Y  -- WPA2(PSK/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -81  6       Y  -- WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -82  6       Y  -- WPA2(PSK/AES/AES)
+                      FiOS-GY2GD 48:5d:36:1c:3b:6a -84  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -58  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -60  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -59  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -60  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -59  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -87  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -56  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -56  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -56  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -56  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -60  140     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -61  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -61  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -60  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -60  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -56  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -52  11      Y  US NONE
+                       stern-psk 70:df:2f:52:83:65 -56  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -52  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -52  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -56  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -52  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -56  11      Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -80  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -53  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -53  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -53  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -53  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -54  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:e1 -55  1       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -55  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -77  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -76  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -78  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -78  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -55  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:ca -80  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -57  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -57  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -57  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -57  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -57  120     Y  US WPA2(802.1x/AES/AES)
+(base) ➜  ~
+
+SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        att-wifi 24:c9:a1:12:3d:d8 -85  1       Y  -- NONE
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -84  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      WIFI97FAEE 30:f7:72:97:fa:f1 -86  1       Y  -- WPA2(PSK/AES/AES)
+                      FiOS-GY2GD 48:5d:36:1c:3b:6a -84  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:4e -57  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -57  120     Y  US NONE
+                         eduroam 4c:77:6d:60:1e:4b -57  120     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -57  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -53  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -53  6       Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -80  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -87  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:45:ea -55  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -55  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -55  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -55  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -55  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -88  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -50  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -50  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -50  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -50  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -69  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -69  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -68  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -68  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -68  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -36  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -59  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -59  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -36  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -36  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -36  11      Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -59  6       Y  US WPA2(802.1x/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -80  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -59  6       Y  US WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -76  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -73  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -73  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -50  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -50  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -73  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -73  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -50  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -50  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -71  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -71  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -71  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -71  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -71  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -64  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -84  10      N  US NONE
+
+     SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                      WIFI97FAEE 30:f7:72:97:fa:f1 -86  1       Y  -- WPA2(PSK/AES/AES)
+                      FiOS-GY2GD 48:5d:36:1c:3b:6a -84  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -53  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -53  6       Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -80  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -87  64      Y  Us NONE
+                        ADELAIDE e8:fc:af:f9:3e:9c -76  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -59  6       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -80  6       Y  -- WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -59  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -54  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -54  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -54  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -54  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -54  108     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:54:6d:4b -89  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -90  100     Y  US NONE
+                             nyu 70:df:2f:54:6d:4f -90  100     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -85  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -50  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -50  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -50  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -50  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -66  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -65  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -65  140     Y  US NONE
+                             nyu 70:df:2f:52:83:6f -65  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:6e -65  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -62  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -46  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -46  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -44  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -62  11      Y  US NONE
+                         eduroam 70:df:2f:44:d6:e4 -44  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -62  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -62  11      Y  US WPA2(PSK/AES/AES)
+                       GordonNYC 30:23:03:33:54:93 -79  8       Y  US WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -85  6       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -78  1       Y  US NONE
+                         eduroam 70:df:2f:44:43:c4 -77  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -52  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -52  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -52  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -52  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -77  1       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -77  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -61  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -61  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -61  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -61  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -61  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP4EED14 02:2f:ef:57:06:52 -85  10      N  US NONE
+                        HP778381 02:25:65:03:cd:62 -82  10      N  US NONE
+
+                       SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -80  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -87  64      Y  Us NONE
+      DIRECT-f2-HP M252 LaserJet aa:a7:95:d0:51:f2 -80  6       Y  -- WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -85  6       Y  US WPA2(PSK/AES/AES)
+                       GordonNYC 30:23:03:33:54:93 -79  8       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -51  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -51  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -51  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -51  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -51  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:54:6d:4b -90  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -90  100     Y  US NONE
+                      nyu-legacy 70:df:2f:54:6d:4e -89  100     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:54:6d:4f -89  100     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -88  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -58  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -58  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -58  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -58  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -70  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -70  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -70  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -70  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -70  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -62  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -61  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -62  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -48  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -48  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -48  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -48  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -62  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -60  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -60  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -57  6       Y  US WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -77  6       Y  -- WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -60  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -77  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -79  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -79  1       Y  US NONE
+                       stern-psk 70:df:2f:44:45:e5 -46  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -46  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -46  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -47  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -79  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -64  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -63  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -63  120     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -63  120     Y  US WPA2(PSK/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -63  120     Y  US WPA2(802.1x/AES/AES)
+
+3 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -82  10      N  US NONE
+                        HP4EED14 02:2f:ef:57:06:52 -85  10      N  US NONE
+                        HPC496A9 02:2f:ef:10:53:2a -82  10      N  US NONE
+
+
+
+
+
+
+
+
+
+
+                                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -85  6       Y  US WPA2(PSK/AES/AES)
+                       GordonNYC 30:23:03:33:54:93 -79  8       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -79  1       Y  US NONE
+                        ADELAIDE e8:fc:af:f9:3e:9c -77  6       Y  -- WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -88  64      Y  -- NONE
+                             nyu 70:df:2f:54:6d:4f -89  100     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:54:6d:4e -89  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -90  100     Y  US NONE
+                         eduroam 70:df:2f:54:6d:4b -90  100     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -62  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -62  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -62  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -62  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -62  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                         eduroam 70:df:2f:44:d6:eb -69  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -68  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -68  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -68  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -57  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -56  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -56  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -57  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -57  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -56  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -48  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -48  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -48  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -48  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -56  11      Y  US NONE
+                       stern-psk 70:df:2f:44:d6:e5 -59  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -50  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -50  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -50  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -50  6       Y  US WPA2(PSK/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -80  5       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -81  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -79  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -60  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -60  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -60  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -60  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -78  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -84  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -83  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -83  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -83  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -84  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -56  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -56  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -56  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -56  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -56  120     Y  US WPA2(802.1x/AES/AES)
+
+4 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -82  10      N  US NONE
+                        HP4EED14 02:2f:ef:57:06:52 -85  10      N  US NONE
+                        HPC496A9 02:2f:ef:10:53:2a -82  10      N  US NONE
+                        HPC6E004 02:2e:ae:20:0b:f0 -84  10      N  US NONE
+
+          SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -81  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -80  5       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -50  6       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -50  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -50  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -50  6       Y  US WPA2(802.1x/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                       stern-psk 70:df:2f:44:45:ea -67  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -67  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -67  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -67  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -67  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -87  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -60  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -60  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -60  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -60  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -60  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -54  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -55  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -54  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -55  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -55  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -41  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -41  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -56  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -56  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -56  11      Y  US NONE
+                         eduroam 70:df:2f:52:83:64 -41  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -41  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -56  11      Y  US WPA2(802.1x/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -80  6       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -83  6       Y  -- WPA2(PSK/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -81  4       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -81  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -58  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -78  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -78  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -78  1       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -58  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -58  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -58  1       Y  US WPA2(802.1x/AES/AES)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -84  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -84  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -84  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -84  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -84  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -55  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -55  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -55  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -55  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -55  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -84  10      N  US NONE
+
+                                       SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -81  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -80  5       Y  US WPA2(PSK/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -81  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -81  4       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -83  6       Y  -- WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -80  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -62  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -63  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -62  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -62  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -62  108     Y  US NONE
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -63  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -63  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -63  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -63  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -63  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -51  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -51  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -51  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -51  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -51  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -58  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -58  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -48  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -47  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -47  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -58  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -58  11      Y  US NONE
+                         eduroam 70:df:2f:52:83:64 -48  11      Y  US WPA2(802.1x/AES/AES)
+                         bart911 e4:f0:42:dd:1f:a2 -83  6       Y  us WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -55  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -55  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -55  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -55  6       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -77  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -77  1       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -84  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -76  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -77  1       Y  US NONE
+                       stern-psk 70:df:2f:44:45:e5 -59  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -59  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -59  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -59  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -80  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -80  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -80  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -80  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -80  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -58  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -58  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -58  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -58  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -58  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -84  10      N  US NONE
+                        HP778381 02:25:65:03:cd:62 -85  10      N  US NO
+
+                 SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             attwifi - Passpoint 24:c9:a1:52:3d:d8 -81  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                     MaxWin33-2G 7c:db:98:5f:3d:76 -80  5       Y  US WPA2(PSK/AES/AES)
+                      ubnt-nyd-s dc:9f:db:6a:28:5c -89  64      Y  Us NONE
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -81  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -81  4       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -77  1       Y  US NONE
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -84  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -77  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -55  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -55  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -55  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -55  6       Y  US WPA2(PSK/AES/AES)
+                         bart911 e4:f0:42:dd:1f:a2 -83  6       Y  us WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -63  56      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -61  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -61  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -61  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -61  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -61  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -88  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -68  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -68  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -68  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -68  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -57  140     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -57  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -57  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -57  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -57  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -58  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -57  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -58  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -49  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -49  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -58  11      Y  US NONE
+                         eduroam 70:df:2f:52:83:64 -49  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -49  11      Y  US NONE
+                        att-wifi 24:c9:a1:16:d1:78 -77  6       Y  -- NONE
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -83  6       Y  -- WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -78  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -71  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -72  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -57  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -57  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -57  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -57  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -76  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -76  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -76  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -76  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -76  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -55  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -55  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -55  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -55  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -54  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC6E004 02:2e:ae:20:0b:f0 -84  10      N  US NONE
+                        HP778381 02:25:65:03:cd:62 -82  10      N  US
+
+      SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    TG1672G22-5G 14:cf:e2:8d:da:25 -91  40,-1   Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:f8 -81  3       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                            Aura 1a:59:c0:59:48:91 -81  4       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:a8 -84  1       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -55  6       Y  US WPA2(802.1x/AES/AES)
+                         bart911 e4:f0:42:dd:1f:a2 -83  6       Y  us WPA2(PSK/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -78  6       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -83  6       Y  -- WPA2(PSK/AES/AES)
+                        att-wifi 24:c9:a1:16:d1:78 -77  6       Y  -- NONE
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -58  11      Y  US NONE
+                       stern-psk 70:df:2f:52:83:6a -57  140     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -67  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -66  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -66  108     Y  US NONE
+                             nyu 70:df:2f:44:45:ef -67  108     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:ee -66  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -89  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -64  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -63  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -63  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -63  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -63  56      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -63  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -65  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -64  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -64  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -51  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -51  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -49  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -57  11      Y  US WPA2(802.1x/AES/AES)
+                      WIFIFC4AA1 f8:da:0c:fc:4a:a5 -88  11      Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -61  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -61  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -51  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -55  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -55  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -55  6       Y  US WPA2(PSK/AES/AES)
+                       TG1672G22 14:cf:e2:8d:da:20 -86  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -61  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -61  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -61  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -62  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -76  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -75  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -76  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -76  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -79  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -79  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -79  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -79  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -79  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -56  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -56  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -56  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -56  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -56  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -85  10      N  US NONE
+
+
+
+
+
+                                                  SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                       stern-psk 70:df:2f:44:45:ea -64  108     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -64  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -63  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -64  108     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -64  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -71  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -71  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -71  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -71  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -59  140     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -59  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -59  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -59  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -59  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -59  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -59  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -50  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -50  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -59  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -59  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -50  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -50  11      Y  US NONE
+                    NewTreehouse c8:a7:0a:91:37:ee -87  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -54  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -54  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -54  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -54  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -58  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -58  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -58  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -58  1       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -84  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -84  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -83  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -84  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -84  40      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -58  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -58  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -58  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -58  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -58  120     Y  US WPA2(802.1x/AES/AES)
+
+                        SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                         eduroam 4c:77:6d:60:1e:44 -54  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -54  6       Y  US NONE
+                    NewTreehouse c8:a7:0a:91:37:ee -87  11      Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -61  108     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -61  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -61  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -61  108     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -61  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -88  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -70  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -70  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -70  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -70  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -57  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -57  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -57  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -57  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -57  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -64  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -64  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -45  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -64  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -45  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -64  11      Y  US NONE
+                         eduroam 70:df:2f:52:83:64 -45  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -45  11      Y  US NONE
+                       stern-psk 4c:77:6d:60:1e:45 -57  6       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -57  6       Y  US WPA2(802.1x/AES/AES)
+             MySpectrumWiFi08-2G 78:29:ed:f2:76:06 -82  5       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -59  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -59  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -59  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -59  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -80  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -79  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -79  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -60  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -61  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -60  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -60  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -60  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -80  10      N  US NONE
+
+                  SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    NewTreehouse c8:a7:0a:91:37:ee -87  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -79  1       Y  US NONE
+             MySpectrumWiFi08-2G 78:29:ed:f2:76:06 -82  5       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -64  108     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -64  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -64  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -66  108     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -64  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -87  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -72  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -72  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -72  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -72  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -49  140     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -49  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -49  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -49  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -49  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -62  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -63  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -62  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -41  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -41  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -62  11      Y  US NONE
+                       stern-psk 70:df:2f:52:83:65 -41  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -41  11      Y  US WPA2(802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -78  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -58  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -58  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -58  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -58  6       Y  US NONE
+                         eduroam 70:df:2f:44:43:c4 -80  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -60  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -61  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -60  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -61  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -79  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -81  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -81  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -81  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -81  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -81  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -59  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -59  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -59  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -59  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -59  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -80  10      N  US NONE
+
+                    SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                    NewTreehouse c8:a7:0a:91:37:ee -87  11      Y  US WPA2(PSK/AES/AES)
+             MySpectrumWiFi08-2G 78:29:ed:f2:76:06 -82  5       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -78  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -64  108     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -64  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -63  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -64  108     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -64  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -86  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -69  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -69  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -70  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -70  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -53  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -53  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -53  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -53  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -53  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -60  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -60  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -60  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -60  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -45  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -45  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -45  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -45  11      Y  US WPA2(802.1x/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -82  6       Y  -- WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -57  6       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -57  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -57  6       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -57  6       Y  US NONE
+             attwifi - Passpoint 24:c9:a1:52:0a:18 -84  4       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -74  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -74  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -74  1       Y  US NONE
+                       stern-psk 70:df:2f:44:45:e5 -62  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -62  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -62  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -62  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -71  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -76  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -76  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -76  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -76  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -76  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -58  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -58  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -58  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -58  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -58  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -89  10      N  US NONE
+
+                                    SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             MySpectrumWiFi08-2G 78:29:ed:f2:76:06 -82  5       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -78  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:52:0a:18 -84  4       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -69  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -68  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -69  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -69  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -69  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:54:6d:4a -90  100     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:54:6d:4b -89  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -90  100     Y  US NONE
+                      nyu-legacy 70:df:2f:54:6d:4e -90  100     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:54:6d:4f -90  100     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -86  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -68  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -68  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -68  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -68  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -68  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -62  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -62  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -62  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -62  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -62  140     Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -58  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -58  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -58  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -52  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -52  11      Y  US NONE
+                         eduroam 70:df:2f:44:d6:e4 -58  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -52  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -52  11      Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -84  6       Y  -- WPA2(PSK/AES/AES)
+                 NETGEAR08_2GEXT b0:b9:8a:48:66:e5 -82  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -59  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -59  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -57  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -59  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -75  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -75  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -63  1       Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -74  1       Y  US NONE
+                 nyuguest-legacy 70:df:2f:44:45:e3 -63  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -62  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -72  1       Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -63  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -73  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -73  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -73  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -73  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -73  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -60  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -60  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -60  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -60  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -60  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -89  10      N  US NONE
+
+
+
+
+
+
+
+
+      SID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -78  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+             attwifi - Passpoint 24:c9:a1:52:0a:18 -84  4       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                 NETGEAR08_2GEXT b0:b9:8a:48:66:e5 -82  6       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -84  6       Y  -- WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:52:83:61 -52  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -56  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -56  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -56  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -56  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -56  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:54:6d:4a -89  100     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:54:6d:4b -88  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -88  100     Y  US NONE
+                      nyu-legacy 70:df:2f:54:6d:4e -88  100     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:54:6d:4f -88  100     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -85  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -51  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -51  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -51  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -51  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -51  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -71  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -71  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -71  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -71  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -71  140     Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -44  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -44  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -44  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -44  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -66  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -66  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -66  11      Y  US NONE
+                       stern-psk 4c:77:6d:60:1e:45 -61  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -61  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -61  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -55  6       Y  US WPA2(802.1x/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -76  6       Y  -- WPA2(PSK/AES/AES)
+                          jnwifi 58:ef:68:72:44:43 -85  4       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -79  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -78  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -78  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -53  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -53  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -53  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -53  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -80  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -80  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -80  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -80  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -80  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -62  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -62  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -62  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -62  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -62  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -89  10      N
+
+    SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+             attwifi - Passpoint 24:c9:a1:52:0a:18 -84  4       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+                 NETGEAR08_2GEXT b0:b9:8a:48:66:e5 -82  6       Y  US WPA2(PSK/AES/AES)
+      DIRECT-f1-HP M426 LaserJet 2a:56:5a:44:54:f1 -84  6       Y  -- WPA2(PSK/AES/AES)
+                          jnwifi 58:ef:68:72:44:43 -85  4       Y  US WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -76  6       Y  -- WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -55  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -55  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -55  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -55  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -55  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:54:6d:4a -89  100     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:54:6d:4b -87  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -88  100     Y  US NONE
+                      nyu-legacy 70:df:2f:54:6d:4e -88  100     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:54:6d:4f -89  100     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -90  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:d6:ea -43  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -43  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -43  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -43  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -43  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -64  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -64  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -65  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -65  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -65  140     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -40  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -40  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -40  11      Y  US NONE
+                 nyuguest-legacy 70:df:2f:52:83:63 -59  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -59  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -59  11      Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -40  11      Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -62  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -61  6       Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -61  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -61  6       Y  US NONE
+                         eduroam 70:df:2f:44:43:c4 -72  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -73  1       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -52  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -52  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -52  1       Y  US NONE
+                 nyuguest-legacy 70:df:2f:44:43:c3 -73  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -52  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -73  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -75  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -75  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -75  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -75  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -75  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -64  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -65  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -64  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -64  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -65  120     Y  US WPA2(802.1x/AES/AES)
+
+2 IBSS networks found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HP778381 02:25:65:03:cd:62 -89  10      N  US NONE
+                        HPC496A9 02:2f:ef:10:53:2a -82  10      N  US NONE
+
+     SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                          jnwifi 58:ef:68:72:44:43 -85  4       Y  US WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -76  6       Y  -- WPA2(PSK/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -61  6       Y  US NONE
+                         eduroam 4c:77:6d:60:1e:44 -61  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -61  6       Y  US WPA2(PSK/AES/AES)
+                      nyu-legacy 4c:77:6d:60:1e:41 -62  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -43  56      Y  US WPA2(PSK/AES/AES)
+                             nyu 70:df:2f:54:6d:4f -89  100     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:54:6d:4e -88  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -88  100     Y  US NONE
+                         eduroam 70:df:2f:54:6d:4b -87  100     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:54:6d:4a -89  100     Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:ea -57  108     Y  US WPA2(PSK/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -57  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -57  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -57  108     Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -57  108     Y  US WPA2(802.1x/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -86  64      Y  -- NONE
+                         eduroam 70:df:2f:44:d6:eb -58  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -58  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -58  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -58  56      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -68  140     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -68  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -68  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -68  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -68  140     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:d6:e1 -46  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -56  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -56  11      Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -56  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -56  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -48  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -48  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -48  11      Y  US NONE
+                        TintHome 78:d2:94:7e:b2:f2 -87  3       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:45:e5 -57  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -57  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -58  1       Y  US NONE
+                       stern-psk 70:df:2f:44:43:c5 -72  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -72  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -72  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:c1 -72  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:45:e1 -57  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -75  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -75  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -75  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -75  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -75  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -60  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -60  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -60  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -60  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -60  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC496A9 02:2f:ef:10:53:2a -82  10      N  US NO
+
+  SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                          jnwifi 58:ef:68:72:44:43 -85  4       Y  US WPA2(PSK/AES/AES)
+                        ADELAIDE e8:fc:af:f9:3e:9c -76  6       Y  -- WPA2(PSK/AES/AES)
+                             nyu 70:df:2f:54:6d:4f -89  100     Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:54:6d:4e -88  100     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:54:6d:4d -88  100     Y  US NONE
+                         eduroam 70:df:2f:54:6d:4b -87  100     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:54:6d:4a -89  100     Y  US WPA2(PSK/AES/AES)
+                        TintHome 78:d2:94:7e:b2:f2 -87  3       Y  US WPA2(PSK/AES/AES)
+                      ubnt-55t-w dc:9f:db:5c:55:36 -86  64      Y  -- NONE
+                       stern-psk 70:df:2f:44:45:ea -57  108     Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:eb -66  108     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:45:ed -64  108     Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:ee -64  108     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:45:ef -66  108     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:ea -58  56      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:eb -58  56      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:d6:ed -58  56      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:ee -58  56      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:d6:ef -58  56      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:6b -58  140     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:52:83:6d -58  140     Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:6e -58  140     Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:52:83:6f -58  140     Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:6a -58  140     Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:52:83:63 -53  11      Y  US NONE
+                      nyu-legacy 70:df:2f:52:83:61 -53  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:52:83:65 -53  11      Y  US WPA2(PSK/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:d6:e3 -51  11      Y  US NONE
+                      nyu-legacy 70:df:2f:44:d6:e1 -51  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 70:df:2f:52:83:64 -53  11      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:d6:e5 -53  11      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:d6:e4 -53  11      Y  US WPA2(802.1x/AES/AES)
+                         eduroam 4c:77:6d:60:1e:44 -51  6       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 4c:77:6d:60:1e:43 -54  6       Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:41 -54  6       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:45 -54  6       Y  US WPA2(PSK/AES/AES)
+             attwifi - Passpoint 24:c9:a1:56:d1:78 -82  6       Y  US WPA2(802.1x,FT-802.1x/AES/AES)
+             MySpectrumWiFi6B-2G 4c:12:65:59:1a:6c -74  6       Y  US WPA2(PSK/AES/AES)
+                       stern-psk 70:df:2f:44:43:c5 -79  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:c4 -79  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:43:c3 -80  1       Y  US NONE
+                       stern-psk 70:df:2f:44:45:e5 -61  1       Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:45:e4 -61  1       Y  US WPA2(802.1x/AES/AES)
+                 nyuguest-legacy 70:df:2f:44:45:e3 -61  1       Y  US NONE
+                      nyu-legacy 70:df:2f:44:45:e1 -61  1       Y  US WPA2(802.1x/AES/AES)
+                      nyu-legacy 70:df:2f:44:43:c1 -78  1       Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 70:df:2f:44:43:ca -78  40      Y  US WPA2(PSK/AES/AES)
+                         eduroam 70:df:2f:44:43:cb -78  40      Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 70:df:2f:44:43:cd -78  40      Y  US NONE
+                      nyu-legacy 70:df:2f:44:43:ce -78  40      Y  US WPA2(802.1x/AES/AES)
+                             nyu 70:df:2f:44:43:cf -79  40      Y  US WPA2(802.1x/AES/AES)
+                       stern-psk 4c:77:6d:60:1e:4a -58  120     Y  US WPA2(PSK/AES/AES)
+                         eduroam 4c:77:6d:60:1e:4b -59  120     Y  US WPA2(802.1x/AES/AES)
+                        nyuguest 4c:77:6d:60:1e:4d -59  120     Y  US NONE
+                      nyu-legacy 4c:77:6d:60:1e:4e -58  120     Y  US WPA2(802.1x/AES/AES)
+                             nyu 4c:77:6d:60:1e:4f -58  120     Y  US WPA2(802.1x/AES/AES)
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        HPC496A9 02:2f:ef:10:53:2a -82  10      N  US NONE                                                                                    
